@@ -59,6 +59,6 @@
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/soroodi/mohammad)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=The%20%20END&section=footer&reversal=false&fontAlign=50&fontAlignY=60&desc=hope%20you%20the%20best%20of%20luck&descAlign=50&descAlignY=80&descSize=25&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wellcome&section=footer&fontAlignY=57&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descAlignY=78&descSize=28&animation=twinkling">
 
 ###
