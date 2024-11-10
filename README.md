@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Mohammad So</h2>
+<h2 align="left">Hi 👋, I'm Mohammad </h2>
 
 ###
 
@@ -56,6 +56,5 @@
 <br clear="both">
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/soroodi/mohammad)
-<img src="https://raw.githubusercontent.com/soroodi/mohammad/gitartwork.svg"/>
 
 ###
