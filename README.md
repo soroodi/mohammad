@@ -54,7 +54,7 @@
 ###
 
 <br clear="both">
-![gitartwork](gitartwork.svg)
-<img src="https://raw.githubusercontent.com/soroodi/mohammad/output/gitartwork.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/soroodi/mohammad/gitartwork.svg" alt="Snake animation" />
 
 ###
