@@ -59,6 +59,6 @@
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/soroodi/mohammad)
 
-<img src="[https://raw.githubusercontent.com/Mohammadsrd/Mohammadsrd/output/snake.svg](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=The%20%20END&section=footer&reversal=false&fontAlign=50&fontAlignY=60&desc=hope%20you%20the%20best%20of%20luck&descAlign=50&descAlignY=80&descSize=25)" /> ###
+<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=17&text=HI%20THERE&section=header&reversal=false&textBg=false&fontColor=fff&fontAlign=50&rotate=0&strokeWidth=0&desc=I%20am%20Mobin%20Javari&fontSize=90&descSize=35&fontAlignY=30&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=The%20%20END&section=footer&reversal=false&fontAlign=50&fontAlignY=60&desc=hope%20you%20the%20best%20of%20luck&descAlign=50&descAlignY=80&descSize=25">
 
 ###
