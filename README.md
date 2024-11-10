@@ -57,10 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mohammadsrd/Mohammadsrd/output/snake.svg" alt="Snake animation" />
-
-###
-
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/soroodi/mohammad)
 
 ###
