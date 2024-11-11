@@ -59,6 +59,7 @@
 
 [![jasineri/gitartwork](gitartwork.svg)](https://github.com/soroodi/soroodi)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Wellcome&section=footer&fontAlignY=57&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descAlignY=78&descSize=28&animation=twinkling">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,100:92FE9D&text=Wellcome&section=footer&fontColor=ffffff&animation=twinkling&fontAlignY=58&desc=hope%20your%20program%20is%20bug-free!&descAlignY=78&descSize=28">
+
 
 ###
